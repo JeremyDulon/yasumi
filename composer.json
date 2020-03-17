@@ -1,5 +1,5 @@
 {
-  "name": "azuyalabs/yasumi",
+  "name": "JeremyDulon/yasumi",
   "description": "Yasumi is an easy PHP Library for calculating national holidays.",
   "keywords": [
     "holiday",
@@ -15,8 +15,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Sacha Telgenhof",
-      "email": "me@sachatelgenhof.com"
+      "name": "Jeremy Dulon",
+      "email": "jeremy.dulon@live.fr"
     }
   ],
   "require": {
